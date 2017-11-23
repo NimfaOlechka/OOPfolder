@@ -1,0 +1,7 @@
+C:\Users\Olya\source\repos\OOPDag4\OOPDag4\obj\Debug\OOPDag4.csprojResolveAssemblyReference.cache
+C:\Users\Olya\source\repos\OOPDag4\OOPDag4\obj\Debug\OOPDag4.csproj.CoreCompileInputs.cache
+C:\Users\Olya\source\repos\OOPDag4\OOPDag4\bin\Debug\OOPDag4.exe.config
+C:\Users\Olya\source\repos\OOPDag4\OOPDag4\bin\Debug\OOPDag4.exe
+C:\Users\Olya\source\repos\OOPDag4\OOPDag4\bin\Debug\OOPDag4.pdb
+C:\Users\Olya\source\repos\OOPDag4\OOPDag4\obj\Debug\OOPDag4.exe
+C:\Users\Olya\source\repos\OOPDag4\OOPDag4\obj\Debug\OOPDag4.pdb

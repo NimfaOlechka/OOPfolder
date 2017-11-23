@@ -1,0 +1,7 @@
+C:\Users\Olya\source\repos\ZooAnimals\ZooAnimals\obj\Debug\ZooAnimals.csprojResolveAssemblyReference.cache
+C:\Users\Olya\source\repos\ZooAnimals\ZooAnimals\obj\Debug\ZooAnimals.csproj.CoreCompileInputs.cache
+C:\Users\Olya\source\repos\ZooAnimals\ZooAnimals\bin\Debug\ZooAnimals.exe.config
+C:\Users\Olya\source\repos\ZooAnimals\ZooAnimals\bin\Debug\ZooAnimals.exe
+C:\Users\Olya\source\repos\ZooAnimals\ZooAnimals\bin\Debug\ZooAnimals.pdb
+C:\Users\Olya\source\repos\ZooAnimals\ZooAnimals\obj\Debug\ZooAnimals.exe
+C:\Users\Olya\source\repos\ZooAnimals\ZooAnimals\obj\Debug\ZooAnimals.pdb
